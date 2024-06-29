@@ -1,7 +1,6 @@
 # Reinforcement-Learning-solving-a-simple-4*4-Gridworld-using-TD0-evaluation-method
 solving a simple 4*4 Gridworld almost similar to openAI gym frozenlake using Temporal difference method Reinforcement Learning   
-
-algorithm contains some bugs!  
+![4*4 gridworld](https://github.com/MohammadAsadolahi/Reinforcement_Learning_solving_a_simple_4_4_Gridworld_using_SARSA-in-python/blob/main/a%20simple%204%20by%204%20Gridworld.png)
 ***************************
 Algorithm Flow
 ***************************
